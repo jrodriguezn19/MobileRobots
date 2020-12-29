@@ -1,14 +1,19 @@
 # MobileRobots
-Here are some videos of the robots I developed to participate in International competitions. 
+Here are some photos and videos of the robots I built to participate in International competitions. 
 
-The programming of these robots were developed in C++, and they work entirely autonomous (no external human control) using electronic sensors and dc motors. 
+The code of these robots were developed in C++, and they work entirely autonomous (no external human control) using electronic sensors and dc motors. 
 
-Maze Solver Robot: <br>
+**Maze Solver Robot:** 
 ![enter image description here](https://github.com/jrodriguez19/MobileRobots/blob/master/SAK1.png?raw=true)
-##Video:
+**Video**:
 https://www.youtube.com/watch?v=CjmURi45m-A 
 
-Robot Sumo: <br>
+**Line Follower:** 
+![enter image description here](https://github.com/jrodriguez19/MobileRobots/blob/master/SAK2.png?raw=true)
 
-https://www.youtube.com/watch?v=YtyrKZ1Ug54 <br>
+**Robot Sumo:**
+![enter image description here](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo1.png?raw=true)
+![enter image description here](https://github.com/jrodriguez19/MobileRobots/blob/master/SumoRobots.png?raw=true)
+**Videos**:
+https://www.youtube.com/watch?v=YtyrKZ1Ug54
 https://www.youtube.com/watch?v=UyZmwMh6tOY
