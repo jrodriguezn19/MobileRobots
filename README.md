@@ -19,5 +19,5 @@ https://www.youtube.com/watch?v=CjmURi45m-A
 ![Sumo Robots](https://github.com/jrodriguez19/MobileRobots/blob/master/SumoRobots.png?raw=true)
 
 **Videos**:
-https://www.youtube.com/watch?v=YtyrKZ1Ug54
+https://www.youtube.com/watch?v=YtyrKZ1Ug54 <br>
 https://www.youtube.com/watch?v=UyZmwMh6tOY
