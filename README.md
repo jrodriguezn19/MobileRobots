@@ -1,5 +1,5 @@
 # MobileRobots
-Here are some photos and videos of the robots I built to participate in International competitions. 
+Photos and videos of the robots I built to participate in International competitions. 
 
 The code of these robots were developed in C++, and they work entirely autonomous (no external human control) using electronic sensors and dc motors. 
 
