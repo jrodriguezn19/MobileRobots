@@ -12,11 +12,11 @@ https://www.youtube.com/watch?v=CjmURi45m-A
 
 
 **Line Follower:** 
-![Robot Sak 2.0](https://github.com/jrodriguez19/MobileRobots/blob/master/SAK2.png?raw=true)
+![Robot Sak 2.0](https://github.com/jrodriguez19/MobileRobots/blob/master/SAK/SAK2.png?raw=true)
 
 **Robot Sumo:**
-![Sumo Robot](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo1.png?raw=true)
-![Sumo Robots](https://github.com/jrodriguez19/MobileRobots/blob/master/SumoRobots.png?raw=true)
+![Sumo Robot](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo3Kg/Sumo1.png?raw=true)
+![Sumo Robots](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo3Kg/SumoRobots.png?raw=true)
 
 **Videos**: <br>
 https://www.youtube.com/watch?v=YtyrKZ1Ug54 <br>
