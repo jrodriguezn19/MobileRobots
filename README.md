@@ -25,7 +25,10 @@ https://www.youtube.com/watch?v=UyZmwMh6tOY <br>
 **Robot Sumo 3Kg New Prototype:**
 ![Firulais1 - Sumo Robot](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo3Kg/Firulais1.jpg?raw=true)
 ![Firulais2- Sumo Robot](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo3Kg/Firulais2.jpg?raw=true)
+![Firulais5- Sumo Robot](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo3Kg/Firulais5.jpg?raw=true)
 ![Firulais3- Sumo Robot](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo3Kg/Firulais3.jpg?raw=true)
+![Firulais4- Sumo Robot](https://github.com/jrodriguez19/MobileRobots/blob/master/Sumo3Kg/Firulais4.jpg?raw=true)
+
 
 **Videos Initial Tests**: <br>
 https://www.youtube.com/watch?v=m55wL7wvAhY
