@@ -1,7 +1,7 @@
 # MobileRobots
 Photos and videos of the robots I built to participate in International competitions. 
 
-The code of these robots were developed in C++, and they work entirely autonomous (no external human control) using electronic sensors and DC motors. 
+The code of these robots were developed in C/C++, and they work entirely autonomous (no external human control) using electronic sensors and DC motors. 
 
 **Maze Solver Robot:** 
 ![Robot SAK 1.0](https://github.com/jrodriguez19/MobileRobots/blob/master/SAK/SAK1.png?raw=true)
