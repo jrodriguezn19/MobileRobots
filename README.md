@@ -3,6 +3,8 @@ Photos and videos of the robots I built to participate in International competit
 
 The code of these robots were developed in C/C++, and they work entirely autonomous (no external human control) using electronic sensors and DC motors. 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjrodriguez19%2FMobileRobots&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 **Maze Solver Robot:** 
 ![Robot SAK 1.0](https://github.com/jrodriguez19/MobileRobots/blob/master/SAK/SAK1.png?raw=true)
 
